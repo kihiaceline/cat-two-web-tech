@@ -1,0 +1,19 @@
+table{
+    background-color:clear;
+    width: 15cm;
+    height: 7cm;
+    font-size:x-large;
+    color: rgb(164, 16, 29);
+}
+body{
+    background: url(cafe.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-blend-mode:luminosity ;
+}
+h1{
+    color: orangered;
+}
+h2{
+    color: red;
+}
